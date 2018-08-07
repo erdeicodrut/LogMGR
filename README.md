@@ -1,0 +1,2 @@
+# LogMGR
+Logging manager
